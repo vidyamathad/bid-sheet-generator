@@ -17,7 +17,7 @@
 This project automates bid sheet generation using data from takeoff sheets and reference pricing using Google Apps Script.
 
 ## 🔗 Live Google Sheet
-[Click here to view the sheet](https://docs.google.com/spreadsheets/d/xxxxxxxxxxx/edit)
+[Click here to view the sheet](https://docs.google.com/spreadsheets/d/1SEh7Qco46gm-HS7ocgm3lnLia80GNyH2j90yE9eW-V8/edit?gid=501347313#gid=501347313)
 
 
 ## 📌 Example Use Cases
